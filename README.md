@@ -14,5 +14,6 @@
 
 І запушив файли на GitHub:
 
+в
 ![image](https://github.com/SmokeyBard/laba_6.1/assets/152091756/10dbc3b8-fa01-4974-a6fd-a3ac0b7f8c47)
 
