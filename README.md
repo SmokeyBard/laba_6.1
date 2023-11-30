@@ -17,3 +17,7 @@
 
 ![image](https://github.com/SmokeyBard/laba_6.1/assets/152091756/10dbc3b8-fa01-4974-a6fd-a3ac0b7f8c47)
 
+Потім я редагував файл і запушив його в GitHub:
+
+
+![image](https://github.com/SmokeyBard/laba_6.1/assets/152091756/c7f0ba84-0e68-4026-9d9d-653e7f5d51fd)
